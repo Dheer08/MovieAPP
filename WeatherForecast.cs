@@ -5,6 +5,7 @@ namespace MovieAPP
     public class WeatherForecast
     {
         public DateTime Date { get; set; }
+        //hi all
 
         public int TemperatureC { get; set; }
         //hell this shakthi branch
