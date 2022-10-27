@@ -15,6 +15,5 @@ namespace MovieAPP
         public string Summary { get; set; }
         //testing sample
         //manideeep changed
-        //abilash changed
     }
 }
