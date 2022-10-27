@@ -21,6 +21,8 @@ namespace MovieAPP.Controllers
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
+
+            // this is a error log command
         }
 
         [HttpGet]
