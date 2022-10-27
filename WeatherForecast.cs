@@ -13,6 +13,7 @@ namespace MovieAPP
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
         // Hii I am rakshith
         public string Summary { get; set; }
+        //weatherforecast.......
         //testing sample
         //manideeep changed
         //manichange 2
