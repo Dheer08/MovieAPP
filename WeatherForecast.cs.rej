@@ -1,0 +1,9 @@
+diff a/WeatherForecast.cs b/WeatherForecast.cs	(rejected hunks)
+@@ -11,6 +11,7 @@
+         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+ 
+         public string Summary { get; set; }
++        //weatherforecast......
+         //testing sample
+     }
+ }
