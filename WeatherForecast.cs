@@ -21,6 +21,10 @@ namespace MovieAPP
         //chnages made here
 
 
+<<<<<<< HEAD
         //B1 changes here
+=======
+        //shakthibranch changes
+>>>>>>> bc67ca9d7d33ac598761efde52222fcdf52e80f4
     }
 }
