@@ -14,11 +14,11 @@ namespace MovieAPP
         // Hii I am rakshith
         public string Summary { get; set; }
         //testing sample
-        //Weatherforecasting.......
         //manideeep changed
         //manichange 2
 
         //pull request change
         //chnages made here
+        //Merge Conflict check
     }
 }
